@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git 第五次修改，这次是在master下验证冲突");
 
         System.out.println("hello git 第五次修改，这次是hot-fix验证冲突");
+        System.out.println("这里是验证push");
     }
 }
